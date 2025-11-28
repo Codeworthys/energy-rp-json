@@ -40,8 +40,8 @@
     ],
     "songs": [
         {
-            "song": "Tree On The Hill | For Me | Feel",
-            "artist": "Nino Paid | Loe Shimmy | Cash Cobain",
+            "song": "Calm Down Pt 2",
+            "artist": "YTB Fatt",
             "url": "https://youtu.be/lBsoygvhppE?si=QqZqMRXogt4Rp1wN"
         }
     ],
@@ -50,33 +50,33 @@
            {
             "description": "Massive Energy update with performance upgrades, new systems, and fun activities [10+ NEW HOOD AREAS]",
             "type": "UPDATE",
-            "title": "Energy 2.0"
+            "title": "Streets Of Atlanta V4"
         },
          {
             "description": "4 New Types Of Crafting Benches w/ Blueprint System 50+ new blueprints & public benches can be found across the city.",
             "type": "NEW",
-            "title": "CRAFTING 2.0"
+            "title": "CRAFTING 4.0"
         },
         {
             "description": "Brand New Spawn UI",
             "type": "NEW",
-            "title": "SPAWN 2.0"
+            "title": "SPAWN 4.0"
         },
         {
             "description": "60+ Levels Added To Battlepass!",
             "type": "UPDATE",
-            "title": "BATTLEPASS 2.0"
+            "title": "BATTLEPASS 4.0"
         },
             
         {
             "description": "Big optimization pass on all clothing to help with performance and reduce overall city lag. Duplicates removed and optimized clothing is now under 'textures/'.",
             "type": "IMPROVEMENT",
-            "title": "CLOTHING UPDATE 2.0"
+            "title": "CLOTHING UPDATE 4.0"
         },
         {
             "description": "New Apartment System Added With MLO Interior [ESCLIPSE TOWER]",
             "type": "NEW",
-            "title": "APARTMENT UPDATE 2.0"
+            "title": "APARTMENT UPDATE 4.0"
         },   
         {
             "description": "MLOs and vehicles tuned and optimized for better performance across the city.",
@@ -161,8 +161,8 @@
             }
 
            ],
-        "date": "08/10/2025",
-        "version": "2.0.0"
+        "date": "11/27/2025",
+        "version": "4.0.0"
     },
     "players": [
         {
@@ -186,9 +186,9 @@
     ],
     "store": {
         "type_text": "",
-        "description": "Check out exclusive in-game packages designed to level up your experience while helping support the continued growth and quality of Energy Roleplay",
-        "url": "https://energy-rp.tebex.io/",
-        "title": "Energy STORE",
-        "type": "2.0 Sale Live Now!"
+        "description": "Check out exclusive in-game packages designed to level up your experience while helping support the continued growth and quality of Streets Of Atlanta",
+        "url": "https://soa.tebex.io/",
+        "title": "Streets Of Atlanta Store",
+        "type": "4.0 Sale Live Now!"
     }
 }
