@@ -184,11 +184,11 @@
             "category": "Top Business"
         }
     ],
-    "store": {
+   "store": {
         "type_text": "",
-        "description": "Check out exclusive in-game packages designed to level up your experience while helping support the continued growth and quality of Reload Roleplay",
-        "url": "https://reload.tebex.io/",
-        "title": "Reload Store",
-        "type": "Launch Sale Live Now!"
+        "description": "Check out exclusive in-game packages designed to level up your experience while helping support the continued growth and quality of Streets Of Atlanta",
+        "url": "https://soa.tebex.io/",
+        "title": "Streets Of Atlanta Store",
+        "type": "4.0 Sale Live Now!"
     }
 }
