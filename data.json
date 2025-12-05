@@ -166,15 +166,15 @@
     },
     "players": [
         {
-            "description": "SYNDICATE has dominated the streets this month with strategic takeovers, relentless turf control, and a reputation that leaves their enemies second-guessing every move. Power house & Feared, respected, and always a step ahead  they have earned their spot at the top.",
-            "name": "SYNDICATE",
-            "image": "https://r2.fivemanage.com/DDFxnL9zW8REFt3dNcM55/imdsdsdage.png",
+            "description": "COVEN has dominated the streets this month with strategic takeovers, relentless turf control, and a reputation that leaves their enemies second-guessing every move. Power house & Feared, respected, and always a step ahead  they have earned their spot at the top.",
+            "name": "COVEN",
+            "image": "https://r2.fivemanage.com/DDFxnL9zW8REFt3dNcM55/FiveM_GTAProcess_lsRr4ZUCOO.png",
             "category": "Top Gang"
         },
         {
-            "description": "Aristotle Mendoza has set the standard this month with sharp investigative work, unmatched professionalism, and relentless pursuit of justice. From undercover ops to high-stakes busts, He's proven why he's a key player in the LSPD and more than earned her spot as Police Officer of the Month.",
-            "name": "Aristotle Mendoza",
-            "image": "https://r2.fivemanage.com/DDFxnL9zW8REFt3dNcM55/Screenshot_110.png",
+            "description": "Khloe Badd has set the standard this month with sharp investigative work, unmatched professionalism, and relentless pursuit of justice. From undercover ops to high-stakes busts, She's proven why she's a key player in the LSPD and more than earned her spot as Police Officer of the Month.",
+            "name": "Khloe Badd",
+            "image": "https://r2.fivemanage.com/DDFxnL9zW8REFt3dNcM55/FiveM_GTAProcess_EqN9zDPCII.png",
             "category": "POLICE Officer"
         },
         {
@@ -186,9 +186,9 @@
     ],
     "store": {
         "type_text": "",
-        "description": "Check out exclusive in-game packages designed to level up your experience while helping support the continued growth and quality of Streets Of Atlanta",
-        "url": "https://soa.tebex.io/",
-        "title": "Streets Of Atlanta Store",
-        "type": "4.0 Sale Live Now!"
+        "description": "Check out exclusive in-game packages designed to level up your experience while helping support the continued growth and quality of Reload Roleplay",
+        "url": "https://reload.tebex.io/",
+        "title": "Reload Store",
+        "type": "Launch Sale Live Now!"
     }
 }
