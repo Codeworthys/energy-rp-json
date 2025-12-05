@@ -66,8 +66,7 @@
             "description": "60+ Levels Added To Battlepass!",
             "type": "UPDATE",
             "title": "BATTLEPASS 4.0"
-        },
-            
+        }, 
         {
             "description": "Big optimization pass on all clothing to help with performance and reduce overall city lag. Duplicates removed and optimized clothing is now under 'textures/'.",
             "type": "IMPROVEMENT",
