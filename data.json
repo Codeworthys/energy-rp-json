@@ -161,8 +161,8 @@
             }
 
            ],
-        "date": "11/27/2025",
-        "version": "4.0.0"
+        "date": "12/05/2025",
+        "version": "1.0.0"
     },
     "players": [
         {
@@ -187,8 +187,8 @@
     "store": {
         "type_text": "",
         "description": "Check out exclusive in-game packages designed to level up your experience while helping support the continued growth and quality of Streets Of Atlanta",
-        "url": "https://soa.tebex.io/",
-        "title": "Streets Of Atlanta Store",
-        "type": "4.0 Sale Live Now!"
+        "url": "https://reload.tebex.io/",
+        "title": "Reload Store",
+        "type": "1.0 Sale Live Now!"
     }
 }
