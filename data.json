@@ -48,9 +48,9 @@
     "changelog": {
         "changes": [
            {
-            "description": "Massive Reload update with performance upgrades, new systems, and fun activities [10+ NEW HOOD AREAS]",
+            "description": "Massive Haven update with performance upgrades, new systems, and fun activities",
             "type": "UPDATE",
-            "title": "Reload Roleplay"
+            "title": "Haven Roleplay"
         },
          {
             "description": "4 New Types Of Crafting Benches w/ Blueprint System 50+ new blueprints & public benches can be found across the city.",
@@ -94,22 +94,22 @@
             "title": "INJURY SYSTEM + HEALING ITEMS"
         },
         {
-            "description": "Fully redesigned notification system to better match the custom Reload UI style.",
+            "description": "Fully redesigned notification system to better match the custom Haven UI style.",
             "type": "REDESIGN",
             "title": "NOTIFICATION SYSTEM 1.0"
         },
         {
-            "description": "Progress bars have been completely redesigned to better align with the Reload look and feel.",
+            "description": "Progress bars have been completely redesigned to better align with the Haven look and feel.",
             "type": "REDESIGN",
             "title": "PROGRESS BAR SYSTEM 1.0"
         },
         {
-            "description": "New animated loading screen with immersive visual design customized for Reload.",
+            "description": "New animated loading screen with immersive visual design customized for Haven.",
             "type": "REDESIGN",
             "title": "LOADING SCREEN 1.0"
         },
         {
-            "description": "New custom pause menu designed to fit the theme and layout of Energy.",
+            "description": "New custom pause menu designed to fit the theme and layout of Haven.",
             "type": "REDESIGN",
             "title": "PAUSE MENU"
         },
@@ -161,7 +161,7 @@
             }
 
            ],
-        "date": "12/05/2025",
+        "date": "12/27/2025",
         "version": "1.0.0"
     },
     "players": [
@@ -187,8 +187,8 @@
     "store": {
         "type_text": "",
         "description": "Check out exclusive in-game packages designed to level up your experience while helping support the continued growth and quality of Reload",
-        "url": "https://reload.tebex.io/",
-        "title": "Reload Store",
+        "url": "https://haven.tebex.io/",
+        "title": "Haven Store",
         "type": "1.0 Sale Live Now!"
     }
 }
